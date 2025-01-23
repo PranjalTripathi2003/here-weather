@@ -16,7 +16,7 @@ HereWeather is a simple web application that allows users to view the weather fo
 
 ## Live Demo
 
-Check out the live version: [https://pranjaltripathi2003.github.io/HereWeather/](https://pranjaltripathi2003.github.io/HereWeather/)
+Check out the live version: [https://pranjaltripathi2003.github.io/HereWeather/](https://pranjaltripathi2003.github.io/here-weather/)
 
 ## Run Locally
 
